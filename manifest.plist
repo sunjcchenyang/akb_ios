@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://akb.network:8800/app/ios/akb/akb_wallet.ipa</string>
+					<string>http://akb.network:8900/ios/akb_wallet.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
